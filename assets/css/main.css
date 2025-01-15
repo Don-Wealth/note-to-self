@@ -497,6 +497,7 @@ hr {
   height: 100%;
   width: 100%;
   display: table;
+  margin-top: 3rem;
 }
 
 .about-area .about-wrapper > div {
